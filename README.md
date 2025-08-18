@@ -1,2 +1,2 @@
-# Natarajan
-This is a Map Maker for the Rudram Engine
+# Nataraja
+This is a general purpose Game Engine
