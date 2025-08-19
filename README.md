@@ -1,2 +1,2 @@
 # Nataraja
-This is a general purpose Game Engine
+This is a Web + Mobile App to create and share stories and comics
