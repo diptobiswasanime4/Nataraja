@@ -1,2 +1,2 @@
 # Nataraja
-This is a Web + Mobile App to create and share stories and comics
+This is a new Software Project (could be Quantum)
